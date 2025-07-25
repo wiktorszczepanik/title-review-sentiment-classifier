@@ -1,0 +1,13 @@
+# Python environments
+.venv
+.env
+.venv/
+.env/
+venv/
+env/
+
+# Datasets
+datasets/can/*.zip
+datasets/init/*.csv
+datasets/cleaned/*.csv
+datasets/transformed/*.csv
