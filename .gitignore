@@ -7,7 +7,12 @@ venv/
 env/
 
 # Datasets
-datasets/can/*.zip
-datasets/init/*.csv
-datasets/cleaned/*.csv
-datasets/transformed/*.csv
+*.zip
+*.csv
+# datasets/can/*.zip
+# datasets/init/*.csv
+# datasets/cleaned/*.csv
+# datasets/transformed/*.csv
+
+# .ipynb
+.ipynb_checkpoints
