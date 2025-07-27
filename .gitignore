@@ -8,11 +8,10 @@ env/
 
 # Datasets
 *.zip
-*.csv
-# datasets/can/*.zip
-# datasets/init/*.csv
-# datasets/cleaned/*.csv
-# datasets/transformed/*.csv
+datasets/can/*.zip
+datasets/init/Reviews.csv
+datasets/cleaned/Reviews.csv
+datasets/transformed/Reviews.csv
 
 # .ipynb
 .ipynb_checkpoints
