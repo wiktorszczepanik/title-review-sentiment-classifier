@@ -15,3 +15,7 @@ datasets/transformed/Reviews.csv
 
 # .ipynb
 .ipynb_checkpoints
+
+# cpython
+.pyc
+*.pyc
