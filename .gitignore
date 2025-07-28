@@ -14,7 +14,7 @@ datasets/cleaned/Reviews.csv
 datasets/transformed/Reviews.csv
 
 # .ipynb
-.ipynb_checkpoints
+processing/.ipynb_checkpoints/
 
 # cpython
 .pyc
