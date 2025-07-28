@@ -19,3 +19,6 @@ datasets/transformed/Reviews.csv
 # cpython
 .pyc
 *.pyc
+
+# pycharm
+.idea/
