@@ -1,6 +1,6 @@
 ## Title Review Sentiment Classifier
 
-This repository contains a sentiment classification model designed to analyze and classify product title reviews from various e-commerce platforms. The model utilizes various data processing techniques and machine learning algorithms to determine the sentiment of reviews.
+This repository contains a sentiment classification model designed to analyze and classify product title reviews from various e-commerce platforms. The model utilizes various data processing techniques and machine learning algorithms to determine the sentiment of reviews, achieving an accuracy of 0.91.
 
 ### Trained Models
 
